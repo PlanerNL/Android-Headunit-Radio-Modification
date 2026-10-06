@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mod_bg">#FF0E1116</color>
+    <color name="mod_card">#FF1A1F27</color>
+    <color name="mod_card_pressed">#FF252C37</color>
+    <color name="mod_stroke">#FF2A313C</color>
+    <color name="mod_accent">#FF4C9EFF</color>
+    <color name="mod_accent_dim">#FF16304F</color>
+    <color name="mod_text">#FFFFFFFF</color>
+    <color name="mod_text2">#FF9AA4B2</color>
+    <color name="mod_text3">#FF6B7480</color>
+    <color name="mod_good">#FF4CC38A</color>
+</resources>

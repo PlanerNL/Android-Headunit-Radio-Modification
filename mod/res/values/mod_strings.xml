@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mod_prev">Vorige\nzender</string>
+    <string name="mod_next">Volgende\nzender</string>
+    <string name="mod_list">Lijst</string>
+    <string name="mod_aps">Zoek en sla op</string>
+    <string name="mod_st">Stereo/mono</string>
+    <string name="mod_loc">Sterke zenders</string>
+    <string name="mod_ta">Verkeersinfo</string>
+    <string name="mod_af">Beste frequentie</string>
+    <string name="mod_pty">Programmatype</string>
+    <string name="mod_no_name">Geen naam</string>
+    <string name="mod_stations">Bibliotheek</string>
+</resources>
